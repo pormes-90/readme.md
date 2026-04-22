@@ -10,6 +10,18 @@
 
 ---
 
+### HI, THERE, I'M PORMES FROM INDONESIA 🇮🇩
+
+<img src="https://media.giphy.com/media/13Nc3xlO1kGg3S/giphy.gif" width="700" height="200" frameBorder="0" >
+
+<img src="https://media.giphy.com/media/lp3GUtG2waC88/giphy.gif" width="700" height="200" frameBorder="0" >
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
 ## 🧑‍💻 whoami
 ```bash
 > user: pormes
@@ -46,14 +58,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=pormes&show_icons=true&theme=chartreuse-dark&hide_border=true" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pormes&layout=compact&theme=chartreuse-dark&hide_border=true" width="48%" />
-</p>
-
----
-
-## 🐍 contribution_snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
