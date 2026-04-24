@@ -88,11 +88,15 @@ this profile is for learning only
 use knowledge wisely
 ```
 
----
+  ![Project Preview](https://user-images.githubusercontent.com/25841814/79395484-5081ae80-7fac-11ea-9e27-ac91472e31dd.png)
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100%" />
+
+  ![Project Preview](https://user-images.githubusercontent.com/15426564/88030180-8e1c4780-cb58-11ea-8a8b-b3576dd73652.png)
+
+  <h3 align="center">📌✨Awesome README Stats</h3>
 </p>
+
 <p align="center">
 <i>Loved the tool? Please consider <a href="https://paypal.me/rahuldkjain/10">donating</a>  💸 to help it improve!</i>
 </p>
@@ -104,5 +108,4 @@ use knowledge wisely
 </a>
 <a href="https://www.buymeacoffee.com/rahuldkjain" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="23" width="100" style="border-radius:1px" />
 </p>
-  
 <h3 align="center">🟢 SYSTEM ONLINE — FOLLOW & SUBSCRIBE 🟢</h3>
