@@ -20,6 +20,10 @@
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
+<a href="https://repology.org/project/gping/versions">
+    <img src="https://repology.org/badge/vertical-allrepos/gping.svg" alt="Packaging status" align="right">
+</a>
+
 ---
 
 ## 🧑‍💻 whoami
